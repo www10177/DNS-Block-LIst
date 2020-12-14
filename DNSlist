@@ -2,6 +2,6 @@
 ||www.facebook.com^$client='Quest 2'
 ||graph.oculus.com^$client='Quest 2'
 ||*^$client='Quest 2'
-||*^$client='Quest 2'
+||*^$client='Rist-PC'
 @@||store.steampowered.com^$client='Rist-PC'
 
